@@ -54,7 +54,7 @@ Guia de estudo aprofundado para a certificação **AZ-104**, com foco em cada do
 
 ---
 
-### 2. Administração de Contas de Usuário e de Grupo (parte do item 1 – 15–20%)
+### 2. Administração de Contas de Usuário e de Grupo (15–20%)
 
 **Inclui:** criação, gerenciamento, acesso self-service, RBAC e controle de convidados.
 
