@@ -10,8 +10,8 @@ Guia de estudo aprofundado para a certificação **AZ-104**, com foco em cada do
 2. Administração de Contas de Usuário e de Grupo (incluído em Identidade – 15–20%)  
 3. Administração dos Recursos do Azure (15–20%)  
 4. Administração de Rede Virtual (20–25%)  
-5. Administração de Conectividade entre Sites (parte de Rede – 20–25%)  
-6. Administração do Tráfego de Rede (parte de Rede – 20–25%)  
+5. Administração de Conectividade entre Sites (20–25%)  
+6. Administração do Tráfego de Rede (20–25%)  
 7. Administração do Armazenamento do Azure (10–15%)  
 8. Administração de Máquinas Virtuais do Azure (25–30%)
 
